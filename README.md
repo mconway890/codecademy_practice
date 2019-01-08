@@ -1,7 +1,7 @@
 # THE BOX MODEL
 Review
 
-In this lesson, we covered the four properties of the box model: height and width, padding, borders, and margins. Understanding the box model is an important step towards learning more advanced HTML and CSS topics. Let's take a minute to review what you learned.
+In this lesson, we covered the four properties of the box model: height and width, padding, borders, and margins. Understanding the box model is an important step towards learning more advanced HTML and CSS topics.
 
 1. The box model comprises a set of properties used to create space around and between HTML elements.
 2. The height and width of a content area can be set in pixels or percentage.
@@ -13,3 +13,14 @@ In this lesson, we covered the four properties of the box model: height and widt
 8. margin: 0 auto horizontally centers an element inside of its parent content area, if it has a width.
 9. The overflow property can be set to display, hide, or scroll, and dictates how HTML will render content that overflows its parent's content area.
 10. The visibility property can hide or show elements.
+
+# CHANGING THE BOX MODEL
+Review: Changing the Box Model
+
+In this lesson, you learned about an important limitation of the default box model: box dimensions are affected by border thickness and padding.
+
+1. In the default box model, box dimensions are affected by border thickness and padding.
+2. The box-sizing property controls the box model used by the browser.
+3. The default value of the box-sizing property is content-box.
+4. The value for the new box model is border-box.
+5. The border-box model is not affected by border thickness or padding.
