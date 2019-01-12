@@ -67,3 +67,30 @@ We've completed our extensive tour of the colors in CSS
 - Hue ranges from 0 to 360 and saturation and lightness are both represented as percentages like this: hsl(200, 20%, 50%).
 
 You can add opacity to color in RGB and HSL by adding a fourth value, a, which is represented as a percentage.
+
+# CSS TYPOGRAPHY
+Review
+
+You learned how to style an important aspect of the user experience, typography.
+
+1. Typography is the art of arranging text on a page.
+
+2. Text can appear in any number of weights, with the font-weight property.
+
+3. Text can appear in italics with the font-style property.
+
+4. The vertical spacing between lines of text can be modified with the line-height property.
+
+5. Serif fonts have extra details on the ends of each letter. Sans-Serif fonts do not.
+
+6. Fallback fonts are used when a certain font is not installed on a user's computer.
+
+7. Google Fonts provides free fonts that can be used in an HTML file with the <link> tag or the @font-face property.
+
+8. Local fonts can be added to a document with the @font-face property and the path to the font's source.
+
+9. The word-spacing property changes how far apart individual words are.
+
+10. The letter-spacing property changes how far apart individual letters are.
+
+11. The text-align property changes the horizontal alignment of text.
