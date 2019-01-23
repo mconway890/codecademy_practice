@@ -1,4 +1,6 @@
-# THE BOX MODEL
+# CODECADEMY LESSONS
+
+## THE BOX MODEL
 Review
 
 In this lesson, we covered the four properties of the box model: height and width, padding, borders, and margins. Understanding the box model is an important step towards learning more advanced HTML and CSS topics.
@@ -14,7 +16,7 @@ In this lesson, we covered the four properties of the box model: height and widt
 9. The overflow property can be set to display, hide, or scroll, and dictates how HTML will render content that overflows its parent's content area.
 10. The visibility property can hide or show elements.
 
-# CHANGING THE BOX MODEL
+## CHANGING THE BOX MODEL
 Review: Changing the Box Model
 
 In this lesson, you learned about an important limitation of the default box model: box dimensions are affected by border thickness and padding.
@@ -25,7 +27,7 @@ In this lesson, you learned about an important limitation of the default box mod
 4. The value for the new box model is border-box.
 5. The border-box model is not affected by border thickness or padding.
 
-# DISPLAY AND POSITIONING
+## DISPLAY AND POSITIONING
 Review: Layout
 
 In this lesson, you learned how to control the positioning of elements on a web page.
@@ -44,7 +46,7 @@ In this lesson, you learned how to control the positioning of elements on a web 
 
 When combined with an understanding of the box model, positioning can create visually appealing web pages.
 
-# CSS COLOR
+## CSS COLOR
 Color Review
 
 We've completed our extensive tour of the colors in CSS
@@ -68,7 +70,7 @@ We've completed our extensive tour of the colors in CSS
 
 You can add opacity to color in RGB and HSL by adding a fourth value, a, which is represented as a percentage.
 
-# CSS TYPOGRAPHY
+## CSS TYPOGRAPHY
 Review
 
 You learned how to style an important aspect of the user experience, typography.
@@ -95,7 +97,7 @@ You learned how to style an important aspect of the user experience, typography.
 
 11. The text-align property changes the horizontal alignment of text.
 
-# CSS GRID ESSENTIALS
+## CSS GRID ESSENTIALS
 Review
 
 We covered a great deal of different ways to manipulate the grid and the items inside it to create interesting layouts.
@@ -108,7 +110,7 @@ We covered a great deal of different ways to manipulate the grid and the items i
 6. grid-column-start and grid-column-end makes elements span certain columns of the grid
 7. grid-area is a shorthand for grid-row-start, grid-column-start, grid-row-end, and grid-column-end, all in one line
 
-# ADVANCED CSS GRID
+## ADVANCED CSS GRID
 Review
 
 1. grid-template-areas specifies grid named grid areas
