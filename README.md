@@ -107,3 +107,18 @@ We covered a great deal of different ways to manipulate the grid and the items i
 5. grid-row-start and grid-row-end makes elements span certain rows of the grid
 6. grid-column-start and grid-column-end makes elements span certain columns of the grid
 7. grid-area is a shorthand for grid-row-start, grid-column-start, grid-row-end, and grid-column-end, all in one line
+
+# ADVANCED CSS GRID
+Review
+
+1. grid-template-areas specifies grid named grid areas
+2. grid layouts are two-dimensional: they have a row, or inline, axis and a column, or block, axis.
+3. justify-items specifies how individual elements should spread across the row axis
+4. justify-content specifies how groups of elements should spread across the row axis
+5. justify-self specifies how a single element should position itself with respect to the row axis
+6. align-items specifies how individual elements should spread across the column axis
+7. align-content specifies how groups of elements should spread across the column axis
+8. align-self specifies how a single element should position itself with respect to the column axis
+9. grid-auto-rows specifies the height of rows added implicitly to the grid
+10. grid-auto-columns specifies the width of columns added implicitly to the grid
+11. grid-auto-flow specifies in which direction implicit elements should be created
