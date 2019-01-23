@@ -94,3 +94,16 @@ You learned how to style an important aspect of the user experience, typography.
 10. The letter-spacing property changes how far apart individual letters are.
 
 11. The text-align property changes the horizontal alignment of text.
+
+# CSS GRID ESSENTIALS
+Review
+
+We covered a great deal of different ways to manipulate the grid and the items inside it to create interesting layouts.
+
+1. grid-template-columns defines the number and sizes of the columns of the grid
+2. grid-template-rows defines the number and sizes of the rows of the grid
+3. grid-template is a shorthand for defining both grid-template-columns and grid-template-rows in one line
+4. grid-gap puts blank space between rows and/or columns of the grid
+5. grid-row-start and grid-row-end makes elements span certain rows of the grid
+6. grid-column-start and grid-column-end makes elements span certain columns of the grid
+7. grid-area is a shorthand for grid-row-start, grid-column-start, grid-row-end, and grid-column-end, all in one line
